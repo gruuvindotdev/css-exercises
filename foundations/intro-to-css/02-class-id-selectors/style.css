@@ -1,0 +1,19 @@
+.redbg {
+    background-color: rgba(194, 95, 95, 0.496);
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+    font-size: 20px;
+}
+
+#blue {
+    color: blue;
+    font-size: 36px;
+}
+
+#green {
+    background-color: rgba(11, 194, 11, 0.496);
+    font-weight: bold;
+}
+
+.big {
+    font-size: 24px;
+}
